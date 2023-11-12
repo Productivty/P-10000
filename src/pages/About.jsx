@@ -1,5 +1,4 @@
 import React from "react";
-// import "./AboutMe.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDownload } from "@fortawesome/free-solid-svg-icons";
 import Self from "../Asset/Self.jpg";
